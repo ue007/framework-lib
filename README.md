@@ -1,3 +1,3 @@
-# framework-lib
-ts、eslint、prettier、rollup
+# framework for lib dev 
+ts、eslint、prettier、rollup、typescript
 
