@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "esnext",
+        "module": "esnext",
+        "baseUrl": "./",
+        "outDir": "./build",
+        "sourceMap": true,
+        "paths": {},
+        "strict": true,
+        "allowJs": true,
+        "checkJs": true
+    },
+    "include": [
+        "**/*.ts",
+        "src/**/*",
+        "typings-custom/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts",
+    ]
+}

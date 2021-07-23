@@ -13,7 +13,7 @@ interface TriggerListenerBundle<S> {
 export default class Trigger<S> {
     private listenerMap: Map<string, TriggerListenerBundle<S>[]> = new Map();
 
-    protected source: S;
+    protected source!: S;
 
     public on(
         type: string,
