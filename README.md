@@ -1,4 +1,4 @@
-# framework for lib dev 
+# framework for sdk dev 
 ts、eslint、prettier、rollup
 
 
