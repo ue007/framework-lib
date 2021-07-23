@@ -11,13 +11,6 @@
         "allowJs": true,
         "checkJs": true
     },
-    "include": [
-        "**/*.ts",
-        "src/**/*",
-        "typings-custom/**/*"
-    ],
-    "exclude": [
-        "node_modules",
-        "**/*.spec.ts",
-    ]
+    "include": ["**/*.ts", "src/**/*", "typings-custom/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
 }
