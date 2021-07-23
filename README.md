@@ -1,5 +1,5 @@
 # framework for lib dev 
-ts、eslint、prettier、rollup、typescript
+ts、eslint、prettier、rollup
 
 
 # How To Use
