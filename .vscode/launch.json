@@ -8,9 +8,50 @@
             "type": "pwa-node",
             "request": "launch",
             "name": "Launch Program",
-            "skipFiles": ["<node_internals>/**"],
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
             "program": "${workspaceFolder}\\servers\\index.js",
-            "outFiles": ["${workspaceFolder}/**/*.js"]
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        },
+        {
+            "name": "Jest Debug AllFile",
+            "type": "node",
+            "request": "launch",
+            "protocol": "inspector",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest",
+            "stopOnEntry": false,
+            "args": [
+                "--runInBand",
+                "--env=jsdom"
+            ],
+            "runtimeArgs": [
+                "--inspect-brk"
+            ],
+            "cwd": "${workspaceRoot}",
+            "sourceMaps": true,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Jest Debug File",
+            "type": "node",
+            "request": "launch",
+            "protocol": "inspector",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest",
+            "stopOnEntry": false,
+            "args": [
+                "--runInBand",
+                "--env=jsdom",
+                "${fileBasename}"
+            ],
+            "runtimeArgs": [
+                "--inspect-brk"
+            ],
+            "cwd": "${workspaceRoot}",
+            "sourceMaps": true,
+            "console": "integratedTerminal"
         }
     ]
 }

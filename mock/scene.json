@@ -1,0 +1,1465 @@
+{
+	"version": "1.0.1",
+	"type": "standard",
+	"generator": "indeco",
+	"isAutoGenGroud": true,
+	"known": {
+		"walls": [
+			{
+				"coordinates": [
+					[-29714.999999999993, -4139.999990001657],
+					[4465.0000000000055, -4139.999990001657]
+				],
+				"width": 100,
+				"AtrributeObject": {
+					"WallWidth": 100,
+					"WallLength": 34179.99999999999,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 34,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1005.2941176470586
+				},
+				"ElementAttribute": 2,
+				"code": "Q010401",
+				"uid": "14844B5D-9B42-4E68-BC4F-15EBD0F94E6B",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "houseGround-0"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[4465.0000000000055, -4139.999990001657],
+					[4465.0000000000055, 12990.000010006972]
+				],
+				"width": 100,
+				"AtrributeObject": {
+					"WallWidth": 100,
+					"WallLength": 17130.00000000863,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 17,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1007.647058824037
+				},
+				"ElementAttribute": 2,
+				"code": "Q010401",
+				"uid": "07B76DE3-DA1F-4919-B76C-07E19B913735",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "houseGround-0"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[4465.0000000000055, 12990.000010006972],
+					[-29714.999999999993, 12990.000010006972]
+				],
+				"width": 100,
+				"AtrributeObject": {
+					"WallWidth": 100,
+					"WallLength": 34179.99999999999,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 34,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1005.2941176470586
+				},
+				"ElementAttribute": 2,
+				"code": "Q010401",
+				"uid": "9654E9D3-0497-476E-92A1-265411041E32",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "houseGround-0"],
+				"IsSULoad": false,
+				"LinkDoor": ["4AE0F521-3971-45C0-83CF-F000EA56A6B5"],
+				"LinkWindow": ["86CEE414-FE31-4519-9F66-EB42FF2667DB"],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[-29714.999999999993, 12990.000010006972],
+					[-29714.999999999993, -4139.999990001657]
+				],
+				"width": 100,
+				"AtrributeObject": {
+					"WallWidth": 100,
+					"WallLength": 17130.00000000863,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 17,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1007.647058824037
+				},
+				"ElementAttribute": 2,
+				"code": "Q010401",
+				"uid": "E20F8D56-EA1B-458F-80FA-FBD90F9E245E",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "houseGround-0"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[-27724.999999999993, -2999.9999900010807],
+					[-8275, -2999.9999900010807]
+				],
+				"width": 120,
+				"AtrributeObject": {
+					"WallWidth": 120,
+					"WallLength": 19449.999999999993,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 19,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1023.6842105263154
+				},
+				"ElementAttribute": 1,
+				"code": "Q0103",
+				"uid": "854D3E5B-8960-47ED-9D22-E9F9DABB267A",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "be5d97d5ed433e5ec14e4932178bcbee"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[-8275, -2999.9999900010807],
+					[-8275, 6550.000010003745]
+				],
+				"width": 120,
+				"AtrributeObject": {
+					"WallWidth": 120,
+					"WallLength": 9550.000000004826,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 10,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 955.0000000004826
+				},
+				"ElementAttribute": 1,
+				"code": "Q0103",
+				"uid": "DCD93E24-FC7D-4770-8A1F-A7F1CC85D567",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "be5d97d5ed433e5ec14e4932178bcbee"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[-8275, 6550.000010003745],
+					[-27724.999999999993, 6550.000010003745]
+				],
+				"width": 120,
+				"AtrributeObject": {
+					"WallWidth": 120,
+					"WallLength": 19449.999999999993,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 19,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 1023.6842105263154
+				},
+				"ElementAttribute": 1,
+				"code": "Q0103",
+				"uid": "C0025CC6-25CE-4411-8E80-A2F0F2D00898",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "be5d97d5ed433e5ec14e4932178bcbee"],
+				"IsSULoad": false,
+				"LinkDoor": ["D0CF51E6-B92C-4F3C-957A-6BD1DC64F583"],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			},
+			{
+				"coordinates": [
+					[-27724.999999999993, 6550.000010003745],
+					[-27724.999999999993, -2999.9999900010807]
+				],
+				"width": 120,
+				"AtrributeObject": {
+					"WallWidth": 120,
+					"WallLength": 9550.000000004826,
+					"PartitionOffset": 0,
+					"DemisingWallHeight": 3500,
+					"TopWallHeight": 1300,
+					"OrbitType": 0,
+					"GlassWidth": 10,
+					"IsHasGlassFrame": false,
+					"OffsetCount": 10,
+					"GlassWallHeight": 2200,
+					"CertainWindow": false,
+					"Direction": 0,
+					"Offset_Length": 955.0000000004826
+				},
+				"ElementAttribute": 1,
+				"code": "Q0103",
+				"uid": "F395EAAB-0AF6-41DD-8B4A-A1700B10FFAB",
+				"LinkGround": ["708ac56e6de8b9a44c34062594624581", "be5d97d5ed433e5ec14e4932178bcbee"],
+				"IsSULoad": false,
+				"LinkDoor": [],
+				"LinkWindow": [],
+				"LinkBridge": [],
+				"LinkColumn": []
+			}
+		],
+		"doors": [
+			{
+				"ElementAttribute": 2,
+				"code": "M010101",
+				"uid": "4AE0F521-3971-45C0-83CF-F000EA56A6B5",
+				"coordinates": [
+					[-24724.999999999993, 12990.000010006972],
+					[-25524.999999999993, 12990.000010006972]
+				],
+				"AtrributeObject": {
+					"BaseHeight": 0,
+					"Specification": "1000*210*2200",
+					"SingleHasFrame": false,
+					"DoubleHasFrame": true,
+					"RotateHasFrame": false,
+					"SetupType": 0,
+					"isRight": 0,
+					"isUp": 0,
+					"DoorWidth": 100,
+					"DoorLength": 800,
+					"DoorHeigh": 2200,
+					"Property": 0
+				},
+				"linkWall": "9654E9D3-0497-476E-92A1-265411041E32",
+				"direction": [
+					[-24724.999999999993, 12990.000010006972],
+					[-24724.999999999993, 12989.000010006972]
+				],
+				"width": 100,
+				"rotation": [3.141592653589793, -1.2246467991473532e-16, 3.141592653589793],
+				"IsSULoad": false
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "M010101",
+				"uid": "D0CF51E6-B92C-4F3C-957A-6BD1DC64F583",
+				"coordinates": [
+					[-19274.999999999993, 6550.000010003745],
+					[-20074.999999999993, 6550.000010003745]
+				],
+				"AtrributeObject": {
+					"BaseHeight": 0,
+					"Specification": "1000*210*2200",
+					"SingleHasFrame": false,
+					"DoubleHasFrame": true,
+					"RotateHasFrame": false,
+					"SetupType": 0,
+					"isRight": 0,
+					"isUp": 0,
+					"DoorWidth": 120,
+					"DoorLength": 800,
+					"DoorHeigh": 2200,
+					"Property": 2
+				},
+				"linkWall": "C0025CC6-25CE-4411-8E80-A2F0F2D00898",
+				"direction": [
+					[-19274.999999999993, 6550.000010003745],
+					[-19274.999999999993, 6549.000010003745]
+				],
+				"width": 120,
+				"rotation": [3.141592653589793, -1.2246467991473532e-16, 3.141592653589793],
+				"IsSULoad": false
+			}
+		],
+		"windows": [
+			{
+				"ElementAttribute": 2,
+				"code": "C0101",
+				"uid": "86CEE414-FE31-4519-9F66-EB42FF2667DB",
+				"coordinates": [
+					[-21634.34607301538, 12990.000010006972],
+					[-22634.34607301538, 12990.000010006972]
+				],
+				"AtrributeObject": {
+					"BaseHeight": 500,
+					"Specification": "1000*50*1500",
+					"isRight": 0,
+					"isUp": 0
+				},
+				"linkWall": "9654E9D3-0497-476E-92A1-265411041E32",
+				"width": 100,
+				"IsSULoad": false
+			}
+		],
+		"arc_columns": [],
+		"columns": [
+			{
+				"ElementAttribute": 2,
+				"code": "Z0101",
+				"uid": "824AFB69-E7B5-4ABB-9D15-457C538FF66E",
+				"AtrributeObject": {
+					"Length": 599.9999999999999,
+					"Width": 600,
+					"Angle": 0,
+					"Diameter": 0
+				},
+				"coordinates": [
+					[-8575.000000000002, 1450.0000100010202],
+					[-8575.000000000002, 850.0000100010203],
+					[-7975.000000000002, 850.0000100010203],
+					[-7975.000000000002, 1450.0000100010202]
+				],
+				"linkBridges": [],
+				"IsSULoad": false
+			}
+		],
+		"bridges": [
+			{
+				"coordinates": [
+					[-23300.97055558218, 9294.978964673903],
+					[-16246.96205634109, 9294.978964673903]
+				],
+				"width": 300,
+				"AtrributeObject": {
+					"Length": 7054.008499241089,
+					"Width": 300,
+					"Height": 250
+				},
+				"ElementAttribute": 2,
+				"code": "L010101",
+				"uid": "5F95B9AF-C0E5-40A2-A134-F93D4034BBBF",
+				"linkColumnAndWall": [],
+				"IsSULoad": false
+			}
+		],
+		"grounds": [
+			{
+				"walls": [
+					"14844B5D-9B42-4E68-BC4F-15EBD0F94E6B",
+					"07B76DE3-DA1F-4919-B76C-07E19B913735",
+					"9654E9D3-0497-476E-92A1-265411041E32",
+					"E20F8D56-EA1B-458F-80FA-FBD90F9E245E"
+				],
+				"AtrributeObject": {
+					"FunctionAttribte": "PFAT_13",
+					"SurrondWallType": "Q010401",
+					"FunctionName": "",
+					"Area": 390.99264079500006,
+					"SeatCapacity": 0
+				},
+				"ElementAttribute": 1,
+				"code": "D01011",
+				"uid": "708ac56e6de8b9a44c34062594624581",
+				"rawData": [
+					[4415.000000000001, -4090.0000000000005],
+					[-29665.000000000004, -4090.0000000000005],
+					[-29665.000000000004, 12940],
+					[4415.000000000001, 12940]
+				],
+				"containDoorID": ["4AE0F521-3971-45C0-83CF-F000EA56A6B5", "D0CF51E6-B92C-4F3C-957A-6BD1DC64F583"],
+				"containFurnitureID": [],
+				"groundInnerData": [
+					[
+						[-27785.000000000004, 6610.000000000001, 0],
+						[-8215, 6610.000000000001, 0],
+						[-8215, 1453.55, 0],
+						[-7971.45, 1453.55, 0],
+						[-7971.45, 846.4499999999999, 0],
+						[-8215, 846.4499999999999, 0],
+						[-8215, -3060, 0],
+						[-27785.000000000004, -3060, 0]
+					]
+				],
+				"groundInnerIds": [
+					[
+						"C0025CC6-25CE-4411-8E80-A2F0F2D00898",
+						"DCD93E24-FC7D-4770-8A1F-A7F1CC85D567",
+						"824AFB69-E7B5-4ABB-9D15-457C538FF66E",
+						"854D3E5B-8960-47ED-9D22-E9F9DABB267A",
+						"F395EAAB-0AF6-41DD-8B4A-A1700B10FFAB"
+					]
+				],
+				"IsSULoad": false,
+				"locked": false,
+				"peopleLocked": false,
+				"curUsePrototype": "",
+				"curUseScheme": ""
+			},
+			{
+				"walls": [
+					"854D3E5B-8960-47ED-9D22-E9F9DABB267A",
+					"F395EAAB-0AF6-41DD-8B4A-A1700B10FFAB",
+					"C0025CC6-25CE-4411-8E80-A2F0F2D00898",
+					"DCD93E24-FC7D-4770-8A1F-A7F1CC85D567"
+				],
+				"AtrributeObject": {
+					"FunctionAttribte": "PFAT_12",
+					"SurrondWallType": "Q0101",
+					"FunctionName": "",
+					"Area": 182.13404079500006,
+					"SeatCapacity": 1
+				},
+				"ElementAttribute": 1,
+				"code": "D01012",
+				"uid": "be5d97d5ed433e5ec14e4932178bcbee",
+				"rawData": [
+					[-8335, -2940],
+					[-27665.000000000004, -2940],
+					[-27665.000000000004, 6490.000000000001],
+					[-8335, 6490.000000000001],
+					[-8335, 1453.55],
+					[-8578.550000000001, 1453.55],
+					[-8578.550000000001, 846.4499999999999],
+					[-8335, 846.4499999999999]
+				],
+				"containDoorID": ["D0CF51E6-B92C-4F3C-957A-6BD1DC64F583"],
+				"containFurnitureID": [
+					"3BF4F055-EB06-441A-94AC-33057771FEA3",
+					"5C03CBC0-8622-4CBE-9F0E-6F4EE506D583",
+					"A85CFED6-6ED7-434F-93AF-5170919358F6",
+					"29EEED3A-67EF-4798-9936-7FAE0E5167B1",
+					"C8F86A0B-006E-440B-8ABE-B505BBC4E853",
+					"23ACF0FD-6CBF-4D70-9056-42C594FC8CFF",
+					"99E44CF7-C90E-44B9-84C0-3C4C08F209F1",
+					"2E396416-9896-4AD0-AA03-5C133C637B5D",
+					"20A6DDDF-E050-4A06-A6EA-05AA4F37520B",
+					"0F6EE31A-E34A-4CF5-A681-317CC57D766B",
+					"252CD516-2D06-4054-B3CE-6A3BD6C7BB84",
+					"DFC15EB1-2458-4ED0-BAFA-2E7C87A048E8",
+					"558CCB08-3844-47BF-AC5F-C661162887D5",
+					"8E525891-0DFE-4611-ABB3-8155171D4F9C",
+					"2638604E-94A7-424D-95EC-B46982437FE5",
+					"9692456E-891D-42BD-B60E-0EE8AC732083",
+					"EAB83F3A-F0A0-4695-A852-68DBBE1F2991",
+					"AEA87FE6-27FF-4CF2-BB76-6E297C2C47E5",
+					"4312D316-E1EF-489E-8B48-FB8E3215BD89",
+					"E7F67D9C-70BC-400F-BFAC-34F31713A077"
+				],
+				"groundInnerData": [],
+				"groundInnerIds": [],
+				"IsSULoad": false,
+				"locked": false,
+				"peopleLocked": false,
+				"curUsePrototype": "ccec32155b39441882a018e104358b82",
+				"curUseScheme": "PFAT_12"
+			},
+			{
+				"walls": [
+					"14844B5D-9B42-4E68-BC4F-15EBD0F94E6B",
+					"E20F8D56-EA1B-458F-80FA-FBD90F9E245E",
+					"9654E9D3-0497-476E-92A1-265411041E32",
+					"07B76DE3-DA1F-4919-B76C-07E19B913735"
+				],
+				"AtrributeObject": {
+					"FunctionAttribte": "PFAT_99",
+					"SurrondWallType": "Q0101",
+					"FunctionName": "",
+					"Area": 580.0138295900002,
+					"SeatCapacity": 1
+				},
+				"ElementAttribute": 1,
+				"code": "D01012",
+				"uid": "houseGround-0",
+				"rawData": [
+					[4415.000000000001, -4090.0000000000005],
+					[-29665.000000000004, -4090.0000000000005],
+					[-29665.000000000004, 12940],
+					[4415.000000000001, 12940]
+				],
+				"containDoorID": [],
+				"containFurnitureID": [],
+				"groundInnerData": [
+					[
+						[-7971.45, 846.4499999999999, 0],
+						[-8578.550000000001, 846.4499999999999, 0],
+						[-8578.550000000001, 1453.55, 0],
+						[-7971.45, 1453.55, 0]
+					]
+				],
+				"groundInnerIds": [["824AFB69-E7B5-4ABB-9D15-457C538FF66E"]],
+				"IsSULoad": false,
+				"locked": false,
+				"peopleLocked": false,
+				"curUsePrototype": "",
+				"curUseScheme": ""
+			}
+		],
+		"skirtingLines": [],
+		"groups": [],
+		"connect_helper": [],
+		"furnitures": [
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "3BF4F055-EB06-441A-94AC-33057771FEA3",
+				"coordinates": [
+					[-8337, -537],
+					[-9937, -536.9999999999999],
+					[-9937, -2036.9999999999998],
+					[-8337, -2037]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 1500,
+					"furniture_length": 1600,
+					"furniture_direction": 180,
+					"furniture_high": 750,
+					"furniture_name": "桌台_经理办公桌00000047",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "经理办公桌",
+					"furniture_type_code": "C210902000007",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/576db1027a8d450fad956332ffbc8e42/经理办公桌_现代_黑色_30102001.skp",
+					"furniture_center_coord": [-9137, -1287, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": false,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/cfacb185d9f544eb9512f82bc5707b9a/LBGZ-2.svg",
+					"furniture_uid": "b5dae1da0a114bf5bbcbc496a6d02237",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210911/h_6ea6112d389942499750bddd0bbf80d4.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210911/h_6ea6112d389942499750bddd0bbf80d4_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 200,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "1403",
+					"furniture_model_info_code": "MI210908000010",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_01",
+					"furniture_classify_code": "C210902000007"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "5C03CBC0-8622-4CBE-9F0E-6F4EE506D583",
+				"coordinates": [
+					[-8337, -2537],
+					[-10737, -2537],
+					[-10737, -2937],
+					[-8337, -2937]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 400,
+					"furniture_length": 2400,
+					"furniture_direction": 180,
+					"furniture_high": 2400,
+					"furniture_name": "柜架_书柜00000044",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "书柜",
+					"furniture_type_code": "C210902000030",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/fd2d435bc0fa40e5a3143b88e4a418bb/书柜_现代_木色_30600111.skp",
+					"furniture_center_coord": [-9537, -2737, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": false,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/83d1fd4dc789480faceebf68e3fe8f5d/ZDWJG.svg",
+					"furniture_uid": "fb75997a4e834d47ac34c2d62b344c12",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_49dc036657384cf58bc9bb4980a5fa9d.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_49dc036657384cf58bc9bb4980a5fa9d_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 600,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "124",
+					"furniture_model_info_code": "MI210908000007",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_03",
+					"furniture_classify_code": "C210902000030"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "A85CFED6-6ED7-434F-93AF-5170919358F6",
+				"coordinates": [
+					[-9033.666666666668, -1132],
+					[-9773.666666666668, -1131.9999999999998],
+					[-9773.666666666668, -1941.9999999999995],
+					[-9033.666666666668, -1941.9999999999998]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 810,
+					"furniture_length": 740,
+					"furniture_direction": 180,
+					"furniture_high": 1290,
+					"furniture_name": "椅凳_老板椅00000048",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "老板椅",
+					"furniture_type_code": "C210902000019",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210915/dd366dc7608547f0886e41f3cd118c8d/老板办公椅_现代_灰色_30200422 740-810-1290.skp",
+					"furniture_center_coord": [-9403.666666666668, -1536.9999999999998, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": false,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/8cff518f50d24e74a79065fafb92e143/YZ-3.svg",
+					"furniture_uid": "e7cb5b3334254946b1f49b4691651ca4",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210915/h_b70a02bf65f34305afa9c9e5a86f522c.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210915/h_b70a02bf65f34305afa9c9e5a86f522c_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 200,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "17876",
+					"furniture_model_info_code": "MI210908000011",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_02",
+					"furniture_classify_code": "C210902000019"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "29EEED3A-67EF-4798-9936-7FAE0E5167B1",
+				"coordinates": [
+					[-9036.999999999998, -536.9999999999999],
+					[-8277, -537.0000000000001],
+					[-8277, 112.99999999999986],
+					[-9036.999999999998, 113.00000000000003]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 650,
+					"furniture_length": 760,
+					"furniture_direction": 360,
+					"furniture_high": 760,
+					"furniture_name": "椅凳_休闲椅00000102",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "休闲椅",
+					"furniture_type_code": "C210902000023",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210914/20618c1af8f64dfd99d8226ba71a65c8/休闲椅_现代_米色76006500760.skp",
+					"furniture_center_coord": [-8657, -212, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": false,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/8b34fb28b2514ec5992107d9ae5a1ee1/YZ-3.svg",
+					"furniture_uid": "6a801fa12d004f2087b8513a7059bec1",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_021d62e403ab421282b5ef216588b7d0.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_021d62e403ab421282b5ef216588b7d0_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "8577",
+					"furniture_model_info_code": "MI210908000065",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_04",
+					"furniture_classify_code": "C210902000023"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "C8F86A0B-006E-440B-8ABE-B505BBC4E853",
+				"coordinates": [
+					[-9997, -536.9999999999998],
+					[-9237, -536.9999999999999],
+					[-9237, 112.99999999999999],
+					[-9997, 113.00000000000017]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 650,
+					"furniture_length": 760,
+					"furniture_direction": 360,
+					"furniture_high": 760,
+					"furniture_name": "椅凳_休闲椅00000102",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "休闲椅",
+					"furniture_type_code": "C210902000023",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210914/20618c1af8f64dfd99d8226ba71a65c8/休闲椅_现代_米色76006500760.skp",
+					"furniture_center_coord": [-9617, -211.9999999999999, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": false,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/8b34fb28b2514ec5992107d9ae5a1ee1/YZ-3.svg",
+					"furniture_uid": "6a801fa12d004f2087b8513a7059bec1",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_021d62e403ab421282b5ef216588b7d0.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_021d62e403ab421282b5ef216588b7d0_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "8577",
+					"furniture_model_info_code": "MI210908000065",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_04",
+					"furniture_classify_code": "C210902000023"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "23ACF0FD-6CBF-4D70-9056-42C594FC8CFF",
+				"coordinates": [
+					[-26802.276600000005, -2389.9989000000005],
+					[-26802.276600000005, -190.0011000000001],
+					[-27663, -190.00109999999975],
+					[-27663, -2389.9988999999996]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 860.7234,
+					"furniture_length": 2199.9978,
+					"furniture_direction": 90,
+					"furniture_high": 693.2787,
+					"furniture_name": "沙发_双人沙发00000125",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "双人沙发",
+					"furniture_type_code": "C210902000025",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/7f0ddf4380484d0fbe615e0984d2dcff/双人沙发_现代_红色_40101864.skp",
+					"furniture_center_coord": [-27232.638300000002, -1290, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/1ec29dc1a9974b10a730a1f31b621b6e/SNRSF.svg",
+					"furniture_uid": "a3d21b407acd4a06811af4acde221159",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_96bf3f0f28494cd88a103e15217dabcb.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_96bf3f0f28494cd88a103e15217dabcb_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "30139",
+					"furniture_model_info_code": "MI210908000088",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_015",
+					"furniture_classify_code": "C210902000025"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "99E44CF7-C90E-44B9-84C0-3C4C08F209F1",
+				"coordinates": [
+					[-25620.1771, -2136.2353500000004],
+					[-25620.1771, -443.76465000000013],
+					[-26482.2766, -443.7646499999998],
+					[-26482.2766, -2136.23535]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 862.0995,
+					"furniture_length": 1692.4707,
+					"furniture_direction": 90,
+					"furniture_high": 338.6431,
+					"furniture_name": "几类_茶几00000077",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "茶几",
+					"furniture_type_code": "C210902000013",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/530f49240c9644c0a0fed60f69f49102/茶几_现代_灰色_30101947.skp",
+					"furniture_center_coord": [-26051.226850000003, -1290, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/344196d7de9749f9b43fa446aa546835/FX.svg",
+					"furniture_uid": "7e852cfc45354b5f9048bcfb6a82eb27",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210909/h_1430e02f6c06469687c6c7f1d2e470b3.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210909/h_1430e02f6c06469687c6c7f1d2e470b3_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 200,
+						"back": 200,
+						"front": 200,
+						"right": 200
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "2258",
+					"furniture_model_info_code": "MI210908000040",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_06",
+					"furniture_classify_code": "C210902000013"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "2E396416-9896-4AD0-AA03-5C133C637B5D",
+				"coordinates": [
+					[-25773.21595, -2386.23535],
+					[-26329.23775, -2386.23535],
+					[-26329.23775, -2937.7275499999996],
+					[-25773.21595, -2937.7275499999996]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 551.4922,
+					"furniture_length": 556.0218,
+					"furniture_direction": 180,
+					"furniture_high": 450,
+					"furniture_name": "沙发_单人沙发00000199",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "单人沙发",
+					"furniture_type_code": "C210902000022",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210913/a76f3ea809f04edbbba62cca88174bc5/沙发墩_现代_红色_30200424.skp",
+					"furniture_center_coord": [-26051.226850000003, -2661.9814499999998, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/92e16d167f5b42b2b307d1614c7ef570/YZ-4.svg",
+					"furniture_uid": "18c7f7255ee042ce9a928bc519465c37",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_ef3e3b9b54724464a28ab64879b3b3c2.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_ef3e3b9b54724464a28ab64879b3b3c2_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "14200",
+					"furniture_model_info_code": "MI210913000002",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_016",
+					"furniture_classify_code": "C210902000022"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "20A6DDDF-E050-4A06-A6EA-05AA4F37520B",
+				"coordinates": [
+					[-26329.23775, -193.7646499999997],
+					[-25773.21595, -193.76464999999988],
+					[-25773.21595, 357.7275500000002],
+					[-26329.23775, 357.72755000000035]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 551.4922,
+					"furniture_length": 556.0218,
+					"furniture_direction": 360,
+					"furniture_high": 450,
+					"furniture_name": "沙发_单人沙发00000199",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "单人沙发",
+					"furniture_type_code": "C210902000022",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210913/a76f3ea809f04edbbba62cca88174bc5/沙发墩_现代_红色_30200424.skp",
+					"furniture_center_coord": [-26051.226850000003, 81.98145000000022, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/92e16d167f5b42b2b307d1614c7ef570/YZ-4.svg",
+					"furniture_uid": "18c7f7255ee042ce9a928bc519465c37",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_ef3e3b9b54724464a28ab64879b3b3c2.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_ef3e3b9b54724464a28ab64879b3b3c2_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "14200",
+					"furniture_model_info_code": "MI210913000002",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_016",
+					"furniture_classify_code": "C210902000022"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "0F6EE31A-E34A-4CF5-A681-317CC57D766B",
+				"coordinates": [
+					[-12855.855136658443, 4091.362500000001],
+					[-12855.85513665844, 6490.000000000002],
+					[-14060.66053665844, 6490.000000000002],
+					[-14060.660536658443, 4091.3625000000015]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 1204.8054,
+					"furniture_length": 2398.6375,
+					"furniture_direction": 450,
+					"furniture_high": 752.5383,
+					"furniture_name": "桌台_会议桌00000143",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议桌",
+					"furniture_type_code": "C210902000008",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/0dfb1785ca564f25b564f8de750f0a29/会议桌_现代_浅灰色_30101966.skp",
+					"furniture_center_coord": [-13458.257836658442, 5290.6812500000015, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/85a97667fb90402d9daddbc8ced5fcb9/FX.svg",
+					"furniture_uid": "6da35d37917f4b428912fd904125479d",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/l_cdbfc405ab5e4267912f1f8cbae86d3d.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/l_cdbfc405ab5e4267912f1f8cbae86d3d_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": false,
+					"furniture_model_faces": "797",
+					"furniture_model_info_code": "MI210908000106",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_07",
+					"furniture_classify_code": "C210902000008"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "252CD516-2D06-4054-B3CE-6A3BD6C7BB84",
+				"coordinates": [
+					[-14110.660536658443, 5715.208525000001],
+					[-14110.660536658443, 6414.818725000002],
+					[-14809.352536658444, 6414.818725000002],
+					[-14809.352536658444, 5715.208525000002]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 90,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-14460.006536658442, 6065.013625000001, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "DFC15EB1-2458-4ED0-BAFA-2E7C87A048E8",
+				"coordinates": [
+					[-12805.855136658443, 6414.818725000002],
+					[-12805.855136658443, 5715.208525000002],
+					[-12107.163136658442, 5715.208525000001],
+					[-12107.163136658442, 6414.818725000002]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 270,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-12456.509136658442, 6065.013625000001, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "558CCB08-3844-47BF-AC5F-C661162887D5",
+				"coordinates": [
+					[-14110.660536658443, 4940.876150000001],
+					[-14110.660536658443, 5640.486350000001],
+					[-14809.352536658444, 5640.486350000002],
+					[-14809.352536658444, 4940.876150000002]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 90,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-14460.006536658442, 5290.6812500000015, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "8E525891-0DFE-4611-ABB3-8155171D4F9C",
+				"coordinates": [
+					[-12805.855136658443, 5640.486350000002],
+					[-12805.855136658443, 4940.876150000002],
+					[-12107.163136658442, 4940.876150000001],
+					[-12107.163136658442, 5640.486350000001]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 270,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-12456.509136658442, 5290.6812500000015, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "2638604E-94A7-424D-95EC-B46982437FE5",
+				"coordinates": [
+					[-14110.660536658443, 4166.543775],
+					[-14110.660536658443, 4866.153975],
+					[-14809.352536658444, 4866.153975000001],
+					[-14809.352536658444, 4166.543775000001]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 90,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-14460.006536658442, 4516.348875000001, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "9692456E-891D-42BD-B60E-0EE8AC732083",
+				"coordinates": [
+					[-12805.855136658443, 4866.153975000001],
+					[-12805.855136658443, 4166.543775000001],
+					[-12107.163136658442, 4166.543775],
+					[-12107.163136658442, 4866.153975]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 698.692,
+					"furniture_length": 699.6102,
+					"furniture_direction": 270,
+					"furniture_high": 875.9235,
+					"furniture_name": "椅凳_会议椅00000150",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "会议椅",
+					"furniture_type_code": "C210902000020",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210908/abf947146b7b43338d5e03a8ac818ac0/会议椅_现代_灰色_30200416.skp",
+					"furniture_center_coord": [-12456.509136658442, 4516.348875000001, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/ef9c85b7fef443b6a3d3b6bcce2c1e7c/YZ-3.svg",
+					"furniture_uid": "9d68b426a1694bdfa45242d8a8a8b1b9",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210908/h_d669a276449145c6b6b53a3e25dd50a7_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 500,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "39538",
+					"furniture_model_info_code": "MI210908000113",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_08",
+					"furniture_classify_code": "C210902000020"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "EAB83F3A-F0A0-4695-A852-68DBBE1F2991",
+				"coordinates": [
+					[-19251.70505, -2490],
+					[-18857.78335, -2490],
+					[-18857.78335, -2096.0783],
+					[-19251.70505, -2096.0783]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 393.9217,
+					"furniture_length": 393.9217,
+					"furniture_direction": 360,
+					"furniture_high": 703.3535,
+					"furniture_name": "椅凳_吧椅00000203",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "吧椅",
+					"furniture_type_code": "C210902000024",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210913/db3f4ed2d9534cf3851e61b86528ae29/吧椅_现代_红色_40401686.skp",
+					"furniture_center_coord": [-19054.7442, -2293.03915, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/70aa33f12c984cbaa56f6250fbd7f5fe/YX.svg",
+					"furniture_uid": "fbbf0c8f46c5471bbd7c70e370582cde",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "8492",
+					"furniture_model_info_code": "MI210913000006",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_010",
+					"furniture_classify_code": "C210902000024"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "AEA87FE6-27FF-4CF2-BB76-6E297C2C47E5",
+				"coordinates": [
+					[-18451.70505, -2490],
+					[-18057.78335, -2490],
+					[-18057.78335, -2096.0783],
+					[-18451.70505, -2096.0783]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 393.9217,
+					"furniture_length": 393.9217,
+					"furniture_direction": 360,
+					"furniture_high": 703.3535,
+					"furniture_name": "椅凳_吧椅00000203",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "吧椅",
+					"furniture_type_code": "C210902000024",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210913/db3f4ed2d9534cf3851e61b86528ae29/吧椅_现代_红色_40401686.skp",
+					"furniture_center_coord": [-18254.7442, -2293.03915, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/70aa33f12c984cbaa56f6250fbd7f5fe/YX.svg",
+					"furniture_uid": "fbbf0c8f46c5471bbd7c70e370582cde",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "8492",
+					"furniture_model_info_code": "MI210913000006",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_010",
+					"furniture_classify_code": "C210902000024"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "4312D316-E1EF-489E-8B48-FB8E3215BD89",
+				"coordinates": [
+					[-17651.70505, -2490],
+					[-17257.78335, -2490],
+					[-17257.78335, -2096.0783],
+					[-17651.70505, -2096.0783]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 393.9217,
+					"furniture_length": 393.9217,
+					"furniture_direction": 360,
+					"furniture_high": 703.3535,
+					"furniture_name": "椅凳_吧椅00000203",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "吧椅",
+					"furniture_type_code": "C210902000024",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210913/db3f4ed2d9534cf3851e61b86528ae29/吧椅_现代_红色_40401686.skp",
+					"furniture_center_coord": [-17454.7442, -2293.03915, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/70aa33f12c984cbaa56f6250fbd7f5fe/YX.svg",
+					"furniture_uid": "fbbf0c8f46c5471bbd7c70e370582cde",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210913/h_5fa1f7f739254e7892c6978cc5c41cc2_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "8492",
+					"furniture_model_info_code": "MI210913000006",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_010",
+					"furniture_classify_code": "C210902000024"
+				}
+			},
+			{
+				"ElementAttribute": 1,
+				"code": "J0101",
+				"uid": "E7F67D9C-70BC-400F-BFAC-34F31713A077",
+				"coordinates": [
+					[-17354.7442, -2540],
+					[-19154.7442, -2540],
+					[-19154.7442, -2940],
+					[-17354.7442, -2940]
+				],
+				"IsSULoad": true,
+				"furniturePosY": 0,
+				"AtrributeObject": {
+					"furniture_width": 400,
+					"furniture_length": 1800,
+					"furniture_direction": 180,
+					"furniture_high": 1100,
+					"furniture_name": "桌台_吧台00000202",
+					"furniture_scaling_factors": [1, 1, 1],
+					"furniture_type": "吧台",
+					"furniture_type_code": "C210902000012",
+					"furniture_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210914/4678a3d942fd4049b83543ec1fc51259/吧台白模1800.skp",
+					"furniture_center_coord": [-18254.7442, -2740, 0],
+					"furniture_code": null,
+					"furniture_coordinates": null,
+					"furniture_mirroring": null,
+					"furniture_model_wire_frame_svg_url": "https://inbase.oss-cn-beijing.aliyuncs.com/crm_saas/release/20210903/b1e09f86ec1b45f2a657ae2470498e49/FX.svg",
+					"furniture_uid": "b01545aad7724a06b0df4b6d9e128d15",
+					"furniture_model_gltf_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_253637872f3e46cf9a36c39f0e72ea5e.gltf",
+					"furniture_model_bin_url": "https://increate.oss-cn-beijing.aliyuncs.com/jobmanager/20210914/h_253637872f3e46cf9a36c39f0e72ea5e_binary_glTF.bin",
+					"furniture_model_safe_area": {
+						"left": 0,
+						"back": 0,
+						"front": 0,
+						"right": 0
+					},
+					"furniture_model_wire_frame_show_level": "1",
+					"furniture_has_write_stype": true,
+					"furniture_model_faces": "2576",
+					"furniture_model_info_code": "MI210913000005",
+					"furniture_apply_number": null,
+					"furniture_fun_key": "FUNC_PFAT_12_09",
+					"furniture_classify_code": "C210902000012"
+				}
+			}
+		]
+	},
+	"SULoadModelMap": {
+		"uuids": [
+			"3BF4F055-EB06-441A-94AC-33057771FEA3",
+			"5C03CBC0-8622-4CBE-9F0E-6F4EE506D583",
+			"A85CFED6-6ED7-434F-93AF-5170919358F6",
+			"29EEED3A-67EF-4798-9936-7FAE0E5167B1",
+			"C8F86A0B-006E-440B-8ABE-B505BBC4E853",
+			"23ACF0FD-6CBF-4D70-9056-42C594FC8CFF",
+			"99E44CF7-C90E-44B9-84C0-3C4C08F209F1",
+			"2E396416-9896-4AD0-AA03-5C133C637B5D",
+			"20A6DDDF-E050-4A06-A6EA-05AA4F37520B",
+			"0F6EE31A-E34A-4CF5-A681-317CC57D766B",
+			"252CD516-2D06-4054-B3CE-6A3BD6C7BB84",
+			"DFC15EB1-2458-4ED0-BAFA-2E7C87A048E8",
+			"558CCB08-3844-47BF-AC5F-C661162887D5",
+			"8E525891-0DFE-4611-ABB3-8155171D4F9C",
+			"2638604E-94A7-424D-95EC-B46982437FE5",
+			"9692456E-891D-42BD-B60E-0EE8AC732083",
+			"EAB83F3A-F0A0-4695-A852-68DBBE1F2991",
+			"AEA87FE6-27FF-4CF2-BB76-6E297C2C47E5",
+			"4312D316-E1EF-489E-8B48-FB8E3215BD89",
+			"E7F67D9C-70BC-400F-BFAC-34F31713A077"
+		]
+	},
+	"unknown": {}
+}

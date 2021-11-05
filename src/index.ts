@@ -1,2 +1,1 @@
-import Trigger from './core/Trigger';
-export { Trigger };
+export * from './trigger';
