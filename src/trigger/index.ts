@@ -1,3 +1,3 @@
-export * from './changeevent';
-export * from './trigger';
-export * from './triggerevent';
+export * from './ChangeEvent';
+export * from './Trigger';
+export * from './TriggerEvent';

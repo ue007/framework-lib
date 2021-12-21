@@ -1,5 +1,5 @@
-import { ChangeEvent } from './changeevent';
-import { TriggerEvent } from './triggerevent';
+import { ChangeEvent } from './ChangeEvent';
+import { TriggerEvent } from './TriggerEvent';
 
 export interface TriggerListener<S> {
 	(evt: TriggerEvent<S>): void;

@@ -1,4 +1,4 @@
-import { TriggerEvent } from './triggerevent';
+import { TriggerEvent } from './TriggerEvent';
 
 export class ChangeEvent<S, V> extends TriggerEvent<S> {
 	public readonly property?: string;
