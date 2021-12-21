@@ -8,11 +8,14 @@ ts、eslint、prettier、rollup
 npm install
 ```
 
-
-
 编译打包
 ```
 npm run build:prod
+```
+
+App开发
+```
+npm run start
 ```
 ## prettier
 
